@@ -9,7 +9,7 @@ Graduated with Mathematics but working as a Software Engineer. I do have a growi
 * 🌍  I'm based in Mountain View, CA
 * ✉️  You can contact me at [hanchuen.foong@gmail.com](mailto:hanchuen.foong@gmail.com)
 * 🚀  Built e-commerce portfolio project [E-Commerce Webpage](http://github.com/HanChuenFoong/online-shop)
-* 🧠  I'm learning React.js
+* 🧠  I'm learning system design
 
 ### Skills
 
